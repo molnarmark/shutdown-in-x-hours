@@ -1,0 +1,19 @@
+{
+  "name": "shutdown-in-x-hours",
+  "version": "1.0.1",
+  "description": "Shut down your Windows machine in X seconds from the command line.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "shutdown",
+    "shut",
+    "down"
+  ],
+  "author": "Mark Molnar <molnarpw@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "shutdowninxhours": "index.js"
+  }
+}
